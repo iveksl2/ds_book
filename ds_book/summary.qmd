@@ -1,0 +1,3 @@
+# Summary
+
+This book will cover data science concepts. This will contain longer form content from the [ds_skills repository](https://github.com/iveksl2/ds_skills) 
