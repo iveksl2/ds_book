@@ -21,17 +21,17 @@
     "text": "This book will cover data science concepts. This will contain longer form content from the ds_skills repository"
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
     "objectID": "optimization.html",
     "href": "optimization.html",
     "title": "3  Optimization",
     "section": "",
     "text": "Optimization is the study of finding the best output from the best combination of inputs."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
