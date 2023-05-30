@@ -1,0 +1,19 @@
+**Mathematical Foundations**
+
+Algebra is arithmetic that includes non-numerical entites like x. I.E. $2*x + 5 = 25$
+
+Linear algebra was developed to solve linear equations. "Solving for unknowns within a system of linear equations". If there is a non-linear transformation it doesn't fall within this definition. It can provide study for  objects such as lines, planes and hyperplanes. It can be traced back to ancient civilizations. 
+
+Tensors are a machine learning generalization of vectors and matricies to any number of dimensions. I.E. An extra dimension for the number of observations in the MNIST dataset.
+
+
+*Code examples and notebooks for the content above*:<br> 
+[Intro to linear algebra - Jon Krohn](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/1-intro-to-linear-algebra.ipynb) <br>
+[Linear Algebra 2: Matrix Operations - Jon Krohn](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/2-linear-algebra-ii.ipynb) <br>
+[Data Science from scratch(linear algebra) - Joel Grus](https://github.com/joelgrus/data-science-from-scratch/blob/master/scratch/linear_algebra.py)<br>
+  * [Colab Notebook](https://colab.research.google.com/drive/1drVZPxfzb54ONric3VmGk2Ya9r88pmWK?usp=sharing) #todo: Add colab to repo <br>
+
+
+**Classes**:<br>
+[Mathematical Foundations of Machine Learning - Jon Krohn](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/)<br>
+[Essence of linear algebra - 3brown1blue](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)<br>
