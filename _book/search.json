@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "ds_book",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Preface\nThis book will cover data science concepts. This will contain longer form content from the ds_skills repository"
   },
   {
     "objectID": "intro.html",
@@ -21,9 +21,16 @@
     "text": "This book will cover data science concepts. This will contain longer form content from the ds_skills repository"
   },
   {
+    "objectID": "linear_algebra.html",
+    "href": "linear_algebra.html",
+    "title": "ds_book",
+    "section": "",
+    "text": "Mathematical Foundations\nAlgebra is arithmetic that includes non-numerical entites like x. I.E. \\(2*x + 5 = 25\\)\nLinear algebra was developed to solve linear equations. “Solving for unknowns within a system of linear equations”. If there is a non-linear transformation it doesn’t fall within this definition. It can provide study for objects such as lines, planes and hyperplanes. It can be traced back to ancient civilizations.\nTensors are a machine learning generalization of vectors and matricies to any number of dimensions. I.E. An extra dimension for the number of observations in the MNIST dataset.\nCode examples and notebooks for the content above: Intro to linear algebra - Jon Krohn  Linear Algebra 2: Matrix Operations - Jon Krohn  Data Science from scratch(linear algebra) - Joel Grus * Colab Notebook #todo: Add colab to repo \nClasses: Mathematical Foundations of Machine Learning - Jon Krohn Essence of linear algebra - 3brown1blue"
+  },
+  {
     "objectID": "optimization.html",
     "href": "optimization.html",
-    "title": "3  Optimization",
+    "title": "4  Optimization",
     "section": "",
     "text": "Optimization is the study of finding the best output from the best combination of inputs."
   },
