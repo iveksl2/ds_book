@@ -9,9 +9,9 @@
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Introduction & Motivations",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "I have always been interested in how can somebody make a meaningful contribution to Aritifical Intelligence without a formal education or a phd. (“playa hatin degree”) This spans the spectrum of being a practitioner in industry to making theoretical advancements via a paper. I originally wrote about this topic in the 2018 post Bootstrapping a Modern Data Science Education while at DataRobot. My views have updated and this provides deeper content along this path. This repository will contain longer form content from the ds_skills repository\nThe book Introduction to Probability for Data Science by Stnaley H. Chan provides a glimpse into the future of publishing technical content. This contains longer form text explanations as well as code samples and video lectures. This provides all the modalities of learning on behalf of the student.\nWe are on the precepice of a golden age of education as now so much of the worlds content from the leading minds is readily accessible to anyone for free."
   },
   {
     "objectID": "summary.html",
@@ -19,6 +19,13 @@
     "title": "2  Summary",
     "section": "",
     "text": "This book will cover data science concepts. This will contain longer form content from the ds_skills repository"
+  },
+  {
+    "objectID": "Mathematics_and_Statistics.html",
+    "href": "Mathematics_and_Statistics.html",
+    "title": "ds_book",
+    "section": "",
+    "text": "test"
   },
   {
     "objectID": "linear_algebra.html",
@@ -33,12 +40,5 @@
     "title": "4  Optimization",
     "section": "",
     "text": "Optimization is the study of finding the best output from the best combination of inputs."
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   }
 ]
