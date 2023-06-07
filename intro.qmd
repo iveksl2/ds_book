@@ -1,5 +1,7 @@
-# Introduction
+# Introduction & Motivations
 
-This is a book created from markdown and executable code.
+I have always been interested in how can somebody make a meaningful contribution to Aritifical Intelligence without a formal education or a phd. ("playa hatin degree") This spans the spectrum of being a practitioner in industry to making theoretical advancements via a paper. I originally wrote about this topic in the 2018 post [Bootstrapping a Modern Data Science Education](https://www.datarobot.com/blog/booststrapping-a-modern-datascience-education/) while at DataRobot. My views have updated and this provides deeper content along this path. This repository will contain longer form content from the [ds_skills repository](https://github.com/iveksl2/ds_skills) 
 
-See @knuth84 for additional discussion of literate programming.
+The book [Introduction to Probability for Data Science by Stnaley H. Chan](https://probability4datascience.com/) provides a glimpse into the future of publishing technical content. This contains longer form text explanations as well as code samples and video lectures. This provides all the modalities of learning on behalf of the student.
+
+We are on the precepice of a golden age of education as now so much of the worlds content from the leading minds is readily accessible to anyone for free. 
