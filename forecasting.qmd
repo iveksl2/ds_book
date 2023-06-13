@@ -1,0 +1,9 @@
+Placeholder for forecasting principles for the product book
+
+*Forecasting Principles*
+
+> Good forecasting is pretty boring
+
+- Base rate
+- Outside view
+- etc.
