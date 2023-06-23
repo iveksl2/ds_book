@@ -42,6 +42,20 @@
     "text": "Optimization is the study of finding the best output from the best combination of inputs."
   },
   {
+    "objectID": "Domain_Knowledge.html",
+    "href": "Domain_Knowledge.html",
+    "title": "ds_book",
+    "section": "",
+    "text": "According to wikipedia,\n\nDomain knowledge is knowledge of a specific, specialized discipline or field, in contrast to general (or domain-independent) knowledge. The term is often used in reference to a more general discipline—for example, in describing a software engineer who has general knowledge of computer programming as well as domain knowledge about developing programs for a particular industry. People with domain knowledge are often regarded as specialists or experts in their field. [1]\n\nThe definition I like is:\n\n“In Datascience the term domain knowledge is used to refer to the general background knowledge of the field or environment to which the methods of data science are being applied.”\n\nReferences:\n\n[1] Domain Knowledge - Wikipedia\n[2] https://corporatefinanceinstitute.com/resources/data-science/domain-knowledge-data-science/"
+  },
+  {
+    "objectID": "applications.html",
+    "href": "applications.html",
+    "title": "ds_book",
+    "section": "",
+    "text": "Related to domain knowledge is knowledge of applications and use cases of ML. Elena Samuylova and the Evidently AI team meaintain a nice database of case studies of industry use cases:\n\nhttps://www.evidentlyai.com/ml-system-design"
+  },
+  {
     "objectID": "forecasting.html",
     "href": "forecasting.html",
     "title": "ds_book",
