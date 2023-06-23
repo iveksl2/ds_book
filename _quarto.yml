@@ -17,7 +17,6 @@ book:
     - part: Domain_Knowledge.qmd
       chapters: 
         - applications.qmd
-        - domain_knowledge.qmd
     - forecasting.qmd
     - references.qmd
 
