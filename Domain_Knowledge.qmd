@@ -1,0 +1,12 @@
+According to wikipedia, 
+
+> *Domain knowledge is knowledge of a specific, specialized discipline or field, in contrast to general (or domain-independent) knowledge. The term is often used in reference to a more general discipline—for example, in describing a software engineer who has general knowledge of computer programming as well as domain knowledge about developing programs for a particular industry. People with domain knowledge are often regarded as specialists or experts in their field.* [1]
+
+The definition I like is:
+
+> *"In Datascience the term domain knowledge is used to refer to the general background knowledge of the field or environment to which the methods of data science are being applied."*    
+
+References: 
+
+  - [1] [Domain Knowledge - Wikipedia](https://en.wikipedia.org/wiki/Domain_knowledge) 
+  - [2] https://corporatefinanceinstitute.com/resources/data-science/domain-knowledge-data-science/

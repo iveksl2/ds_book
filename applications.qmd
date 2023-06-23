@@ -1,0 +1,3 @@
+Related to domain knowledge is knowledge of applications and use cases of ML. [Elena Samuylova](https://www.linkedin.com/in/elenasamuylova/) and the Evidently AI team meaintain a nice database of case studies of industry use cases: 
+
+  * [https://www.evidentlyai.com/ml-system-design](https://www.evidentlyai.com/ml-system-design)
