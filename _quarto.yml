@@ -14,7 +14,10 @@ book:
         - linear_algebra.qmd
         - optimization.qmd
     - part: Software_Engineering
-    - part: Domain_Knowledge
+    - part: Domain_Knowledge.qmd
+      chapters: 
+        - applications.qmd
+        - domain_knowledge.qmd
     - forecasting.qmd
     - references.qmd
 
